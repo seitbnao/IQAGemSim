@@ -1,0 +1,8 @@
+streamlit>=1.61,<2
+pandas>=2.2,<3
+numpy>=2.0,<3
+scikit-learn>=1.7,<2
+scipy>=1.13,<2
+pykrige>=1.7.3,<2
+plotly>=6,<7
+pytest>=8,<10

@@ -1,0 +1,27 @@
+{
+  "note": "Objetivos demonstrativos; substituir pelos objetivos/enquadramento adotados no estudo.",
+  "objectives": {
+    "ph": {
+      "min": 6.5,
+      "max": 8.5
+    },
+    "do_mg_l": {
+      "min": 5.0
+    },
+    "dbo_mg_l": {
+      "max": 5.0
+    },
+    "ecoli_mpn_100ml": {
+      "max": 1000.0
+    },
+    "total_n_mg_l": {
+      "max": 2.0
+    },
+    "total_p_mg_l": {
+      "max": 0.1
+    },
+    "turbidity_ntu": {
+      "max": 100.0
+    }
+  }
+}
